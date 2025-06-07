@@ -68,10 +68,4 @@ A **custom Linear Regression** model was implemented using NumPy, featuring:
 - Seaborn
 - scikit-learn
 
----
 
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
-python house_price_prediction.py
